@@ -1,5 +1,4 @@
 # telesko
-
 User registration & login system
 Display of travel destinations with images & details
 Admin panel to manage destinations and offers
